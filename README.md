@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiktortekili
-- 👀 I’m interested in good design and mediocre coding.
+- 👀 I’m interested in good design and poor coding.
 - 🌱 I’m currently learning UI/UX and some C#.
 - :bee: Working on Everbee.
 - 📫 wiktortekieli@gmail.com
