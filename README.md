@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wiktortekili
-- 👀 I’m interested in good design and poor coding.
-- 🌱 I’m currently learning UI/UX and some C#.
-- :bee: Working on Everbee.
+- 👀 I’m interested in regular nerd stuff.
+- 🌱 I’m currently learning Cypress.
+- :bee: Working on test automation.
 - 📫 wiktortekieli@gmail.com
 
 <!---
